@@ -1,6 +1,6 @@
 Git Advanced Workflow Practice
-<<<<<<< HEAD
-Update README from develop branch
+<<<<<<< Update README from develop branch
+Payment feature added
 =======
 Payment feature added
 >>>>>>> feature-payment
